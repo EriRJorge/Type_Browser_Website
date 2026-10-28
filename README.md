@@ -48,10 +48,9 @@ To view or work on this project locally, follow these steps:
    xdg-open index.html
    ```
 
-3. **Download the Windows application:**
-   Select **Download EXE** on the website to download `Type_Browser_1.0.exe`.
-   The executable is stored with Git LFS because it is larger than GitHub's
-   standard file-size limit.
+3. **Download the application:**
+   Select the download button for Windows, macOS, or Linux. The platform
+   packages are published as assets on the Type Browser GitHub release.
 
 4. **For Development (Recommended):**
    For a better development experience with live reloading, you can use a simple local server. If you have VS Code, the "Live Server" extension is a great option.
